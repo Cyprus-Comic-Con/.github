@@ -1,10 +1,12 @@
 # Cyprus Comic Con
 
-Cyprus Comic Con is a long-running non-profit community platform built by a small team of stubborn volunteers who have been putting in the work since 2012.
+Cyprus Comic Con is a non-profit, volunteer-driven community platform that has been putting in the work since 2012.
 
 We started as OtakuCy, organizing anime music nights and cosplay get-togethers, then launched the first Cyprus Comic Con in 2014. Since then, we have kept building.
 
-Today, our flagship annual Cyprus Comic Con brings roughly 32,000 to 40,000 people across more than 11,000 square metres at Nicosia's Cyprus State Fair, with a further ~30,000 people joining our other get-togethers and mall events.
+Today, our flagship annual Cyprus Comic Con is one of the largest pop culture events in the region. Our 2025 event at Nicosia's Cyprus State Fair brought in **more than 31,500 attendees**, used **roughly 11,000 square metres** of floorspace, and featured **300+ participants, exhibitors, and entertainers**, **100+ booth holders**, and **100+ independent artists**.
+
+Beyond the flagship convention, our mall events and other community gatherings brought in **roughly 29,000 more people in 2025** alone.
 
 That is a cultural revolution on a sunny little island.
 
